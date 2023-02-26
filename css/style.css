@@ -113,6 +113,7 @@ top: -5px;
 @media screen and (max-width:1000px){
     section{
         padding: 2px;
+        top:20px;
     }
     .form-box{
         width: 330px;
